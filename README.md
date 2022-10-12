@@ -1,4 +1,4 @@
-![Demo](./src/assets/moviesLib.png)
+![Demo](./src/assets/movies.png)
 # MoviesLib
 
 ### Projeto desenvolvido para fins educacionais
