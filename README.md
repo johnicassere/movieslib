@@ -1,4 +1,5 @@
 ![Demo](./src/assets/movies.png)
+[Link da aplicação](https://movieslib-seven.vercel.app/)
 # MoviesLib
 
 ### Projeto desenvolvido para fins educacionais
